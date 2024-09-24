@@ -1,0 +1,12 @@
+D:\FRONTEND COURSE\js work@ code queen\Loops\bin\Debug\Loops.exe.config
+D:\FRONTEND COURSE\js work@ code queen\Loops\bin\Debug\Loops.exe
+D:\FRONTEND COURSE\js work@ code queen\Loops\bin\Debug\Loops.pdb
+D:\FRONTEND COURSE\js work@ code queen\Loops\bin\Debug\Loops.xml
+D:\FRONTEND COURSE\js work@ code queen\Loops\obj\Debug\Loops.vbproj.AssemblyReference.cache
+D:\FRONTEND COURSE\js work@ code queen\Loops\obj\Debug\Loops.Form1.resources
+D:\FRONTEND COURSE\js work@ code queen\Loops\obj\Debug\Loops.Resources.resources
+D:\FRONTEND COURSE\js work@ code queen\Loops\obj\Debug\Loops.vbproj.GenerateResource.cache
+D:\FRONTEND COURSE\js work@ code queen\Loops\obj\Debug\Loops.vbproj.CoreCompileInputs.cache
+D:\FRONTEND COURSE\js work@ code queen\Loops\obj\Debug\Loops.exe
+D:\FRONTEND COURSE\js work@ code queen\Loops\obj\Debug\Loops.xml
+D:\FRONTEND COURSE\js work@ code queen\Loops\obj\Debug\Loops.pdb

@@ -1,0 +1,12 @@
+D:\FRONTEND COURSE\js work@ code queen\exercise\bin\Debug\exercise.exe.config
+D:\FRONTEND COURSE\js work@ code queen\exercise\bin\Debug\exercise.exe
+D:\FRONTEND COURSE\js work@ code queen\exercise\bin\Debug\exercise.pdb
+D:\FRONTEND COURSE\js work@ code queen\exercise\bin\Debug\exercise.xml
+D:\FRONTEND COURSE\js work@ code queen\exercise\obj\Debug\exercise.vbproj.AssemblyReference.cache
+D:\FRONTEND COURSE\js work@ code queen\exercise\obj\Debug\exercise.Form1.resources
+D:\FRONTEND COURSE\js work@ code queen\exercise\obj\Debug\exercise.Resources.resources
+D:\FRONTEND COURSE\js work@ code queen\exercise\obj\Debug\exercise.vbproj.GenerateResource.cache
+D:\FRONTEND COURSE\js work@ code queen\exercise\obj\Debug\exercise.vbproj.CoreCompileInputs.cache
+D:\FRONTEND COURSE\js work@ code queen\exercise\obj\Debug\exercise.exe
+D:\FRONTEND COURSE\js work@ code queen\exercise\obj\Debug\exercise.xml
+D:\FRONTEND COURSE\js work@ code queen\exercise\obj\Debug\exercise.pdb

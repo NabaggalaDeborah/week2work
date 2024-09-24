@@ -1,0 +1,12 @@
+D:\FRONTEND COURSE\js work@ code queen\number4\obj\Debug\number4.vbproj.AssemblyReference.cache
+D:\FRONTEND COURSE\js work@ code queen\number4\obj\Debug\number4.Form1.resources
+D:\FRONTEND COURSE\js work@ code queen\number4\obj\Debug\number4.Resources.resources
+D:\FRONTEND COURSE\js work@ code queen\number4\obj\Debug\number4.vbproj.GenerateResource.cache
+D:\FRONTEND COURSE\js work@ code queen\number4\obj\Debug\number4.vbproj.CoreCompileInputs.cache
+D:\FRONTEND COURSE\js work@ code queen\number4\bin\Debug\number4.exe.config
+D:\FRONTEND COURSE\js work@ code queen\number4\bin\Debug\number4.exe
+D:\FRONTEND COURSE\js work@ code queen\number4\bin\Debug\number4.pdb
+D:\FRONTEND COURSE\js work@ code queen\number4\bin\Debug\number4.xml
+D:\FRONTEND COURSE\js work@ code queen\number4\obj\Debug\number4.exe
+D:\FRONTEND COURSE\js work@ code queen\number4\obj\Debug\number4.xml
+D:\FRONTEND COURSE\js work@ code queen\number4\obj\Debug\number4.pdb
