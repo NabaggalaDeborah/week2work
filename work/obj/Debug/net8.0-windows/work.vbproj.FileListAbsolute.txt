@@ -1,0 +1,16 @@
+D:\FRONTEND COURSE\js work@ code queen\work\bin\Debug\net8.0-windows\work.exe
+D:\FRONTEND COURSE\js work@ code queen\work\bin\Debug\net8.0-windows\work.deps.json
+D:\FRONTEND COURSE\js work@ code queen\work\bin\Debug\net8.0-windows\work.runtimeconfig.json
+D:\FRONTEND COURSE\js work@ code queen\work\bin\Debug\net8.0-windows\work.dll
+D:\FRONTEND COURSE\js work@ code queen\work\bin\Debug\net8.0-windows\work.pdb
+D:\FRONTEND COURSE\js work@ code queen\work\obj\Debug\net8.0-windows\work.Form1.resources
+D:\FRONTEND COURSE\js work@ code queen\work\obj\Debug\net8.0-windows\work.vbproj.GenerateResource.cache
+D:\FRONTEND COURSE\js work@ code queen\work\obj\Debug\net8.0-windows\work.GeneratedMSBuildEditorConfig.editorconfig
+D:\FRONTEND COURSE\js work@ code queen\work\obj\Debug\net8.0-windows\work.AssemblyInfoInputs.cache
+D:\FRONTEND COURSE\js work@ code queen\work\obj\Debug\net8.0-windows\work.AssemblyInfo.vb
+D:\FRONTEND COURSE\js work@ code queen\work\obj\Debug\net8.0-windows\work.vbproj.CoreCompileInputs.cache
+D:\FRONTEND COURSE\js work@ code queen\work\obj\Debug\net8.0-windows\work.dll
+D:\FRONTEND COURSE\js work@ code queen\work\obj\Debug\net8.0-windows\refint\work.dll
+D:\FRONTEND COURSE\js work@ code queen\work\obj\Debug\net8.0-windows\work.pdb
+D:\FRONTEND COURSE\js work@ code queen\work\obj\Debug\net8.0-windows\work.genruntimeconfig.cache
+D:\FRONTEND COURSE\js work@ code queen\work\obj\Debug\net8.0-windows\ref\work.dll
